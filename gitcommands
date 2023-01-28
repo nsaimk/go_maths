@@ -1,0 +1,990 @@
+   20  https://git.learn.01founders.co/saim/go-reloaded.git
+   21  git config --global credential.helper store
+   22  git config --global user.email"nsaimkorkmaz1@gmail.com"
+   23  git config --global user.name"saim"
+   24  git clone https://git.learn.01founders.co/saim/go-reloaded.git
+   25  cd ..
+   26  ls
+   27  cd saim
+   28  ls
+   29  cd go-reloaded
+   30  touch README.md
+   31  git init
+   32  git add README.md
+   33  git commit -m "first commit"
+   34  git remote add origin https://git.learn.01founders.co/saim/go-reloaded.git
+   35  git push -u origin master
+   36  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   37  clear
+   38  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   39  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/saim/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+   40  brew help
+   41  brew list
+   42  brew install node
+   43  brew list
+   44  node --version
+   45  brew install coreutils
+   46  brew install jq
+   47  brew install git
+   48  brew install golang
+   49  brew install gofumpt
+   50  echo .DS_Store >> .gitignore
+   51  git commit -am “remove .DS_Store files”
+   52  echo .DS_Store >> .gitignore
+   53  git commit -am “remove .DS_Store files”
+   54  echo .DS_Store
+   55  git commit -am “remove .DS_Store files”
+   56  code main.go
+   57  cd ..
+   58  ls
+   59  git clone https://git.learn.01founders.co/Adriell/go-reloaded\ncd go-reloaded\ngit reset --hard 40630d8fe29f6f541783dafdd9777a9ce78f3057
+   60  touch audit
+   61  cd audit
+   62  rm audit
+   63  mkdir audit
+   64  cd audit
+   65  ls
+   66  git clone https://git.learn.01founders.co/Adriell/go-reloaded\ncd go-reloaded\ngit reset --hard 40630d8fe29f6f541783dafdd9777a9ce78f3057
+   67  ls
+   68  cd ..
+   69  ls
+   70  cd ..
+   71  ls
+   72  cd go-reloaded
+   73  ls
+   74  go run main.go a b
+   75  code sample.txt
+   76  code result.txt
+   77  go run . heleniko (up) kh
+   78  go run . sample.txt result.txt
+   79  go mod init
+   80  ls
+   81  go mod init /Users/saim/go-reloaded
+   82  go run . sample.txt result.txt
+   83  go help mod init
+   84  go run main.go
+   85  go run main.go
+   86  go run main.go
+   87  go run main.go
+   88  go run main.go
+   89  go run main.go
+   90  go run main.go
+   91  go run main.go
+   92  go run main.go
+   93  go run main.go
+   94  go run main.go
+   95  git cologne https://git.learn.01founders.co/alunjohns/go-reloaded.git
+   96  git --help
+   97  git clone https://git.learn.01founders.co/alunjohns/go-reloaded.git
+   98  cls
+   99  clear
+  100  cd ..
+  101  git clone https://git.learn.01founders.co/Mohameduwl/go-reloaded
+  102  ls
+  103  cd audits
+  104  git clone https://git.learn.01founders.co/Mohameduwl/go-reloaded
+  105  code main.go
+  106  ls
+  107  cd ..
+  108  ls
+  109  cd audits
+  110  code main.go
+  111  go run main.go
+  112  go run main.go
+  113  go run main.go
+  114  go run main.go
+  115  go run main.go
+  116  go run main.go
+  117  go run main.go
+  118  go run main.go
+  119  code main.go
+  120  go run main.go
+  121  go run main.go
+  122  go run main.go
+  123  go run main.go
+  124  go run main.go
+  125  go run main.go
+  126  go run main.go
+  127  go run main.go
+  128  ls
+  129  cd ..
+  130  ls
+  131  git clone https://git.learn.01founders.co/rw.smith/ascii-art
+  132  git clone https://git.learn.01founders.co/rw.smith/ascii-art
+  133  cd audits
+  134  go run main.go
+  135  go run main.go
+  136  go run main.go
+  137  go run main.go
+  138  go run main.go
+  139  go run main.go
+  140  go run main.go
+  141  go run main.go
+  142  go run main.go
+  143  go run main.go
+  144  clear
+  145  go run main.go
+  146  clear
+  147  go run main.go
+  148  clear
+  149  clear
+  150  go run main.go
+  151  clear
+  152  go run main.go
+  153  clear
+  154  go run main.go
+  155  go run main.go
+  156  go cuild main.go
+  157  go help
+  158  go run main.go
+  159  go build main.go
+  160  ll
+  161  11
+  162  ii
+  163  ll
+  164  go build
+  165  go help modules
+  166  ./main
+  167  code font.go
+  168  code font.go
+  169  ls
+  170  cd ..
+  171  cd ..
+  172  cd saim
+  173  ls
+  174  ls
+  175  cd ascii-art
+  176  cd mainm
+  177  cd main
+  178  code shadow.txt
+  179  go mod asciiart
+  180  cd saim
+  181  cd asciiart
+  182  cd main
+  183  go test .
+  184  cd asciiart
+  185  cd main
+  186  go run . "enes"
+  187  go run . "ayse"
+  188  cd asciiart
+  189  cd main
+  190  go test .
+  191  go mod asciiart
+  192  go mod init asciiart
+  193  go mod tidy
+  194  go mod tidy
+  195   go mod sum
+  196  go help mod
+  197  go help mod sum
+  198  go mod tidy
+  199  cd main
+  200  go test .
+  201  clear\\n
+  202  go test .
+  203  cd asciiart
+  204  go run main.go
+  205  code make-map.go
+  206  code make-map.go
+  207  code main.go
+  208  go run main.go
+  209  clear
+  210  go run main.go
+  211  clear
+  212  go run main.go
+  213  clear
+  214  go run main.go
+  215  go run main.go
+  216  go run main.go
+  217  go run main.go
+  218  go run main.go
+  219  go run main.go
+  220  go run main.go
+  221  go run main.go
+  222  go run main.go
+  223  go run . 1 2 3 4 5
+  224  go mod init
+  225  go mod init testo
+  226  go mod tidy
+  227  go run . 1 2 3 4 5
+  228  go run . 1 2 3 4 5
+  229  go run . 1 2 3 4 5
+  230  go run . 1 2 3 4 5
+  231  go run . 1 2 3 4 5
+  232  go run . 1 2 3 4 5
+  233  go run . 1 2 3 4 5
+  234  go run . 1 2 3 a b c A B C f g h
+  235  go run . 1 2 3 a b c A B C f g h 4 5 6
+  236  go run . 1 2 3 a b c A B C f g h 4 5 6
+  237  go run . 1 2 3 a b c A B C f g h 4 5 6
+  238  go run . 1 2 3 a b c A B C f g h 4 5 6
+  239  git clone https://git.learn.01founders.co/digitalix/ascii-art-web \n
+  240  cd ascii-art-web \n
+  241  code main.go
+  242  cd ..
+  243  cd ..
+  244   cd..
+  245  ls
+  246  cd asciiart
+  247  ls
+  248  go run . 64
+  249  go mod init ascii
+  250  go mod tidy
+  251  go run . 64
+  252  ls
+  253  cd asciiart
+  254  ls
+  255  main.go
+  256  code main.go
+  257  go version
+  258  echo $GOPATH
+  259  go run main.go
+  260  go run main.go
+  261  go run main.go
+  262  go run main.go
+  263  go run main.go
+  264  go run main.go
+  265  go run main.go
+  266  go run main.go
+  267  go run main.go
+  268  go run main.go
+  269  go run main.go
+  270  go run main.go
+  271  go run main.go
+  272  go run main.go
+  273  go run main.go
+  274  ls
+  275  cd asciiart
+  276  go run main.go
+  277  cd asciiart
+  278  go run main.go
+  279  ls
+  280  go run main.go
+  281  go run main.go
+  282  go run main.go
+  283  go run main.go
+  284  go run main.go
+  285  clear
+  286  go run . 64
+  287  go run . "64"
+  288  go run . 64
+  289  go help ^
+  290  go help 
+  291  go get http
+  292  go run main.go
+  293  clear
+  294  go build main.go
+  295  go run .
+  296  go run .
+  297  go help
+  298  go help modules
+  299  go run .
+  300  go get rsc.io/quote
+  301  go run .
+  302  go mod tidy
+  303  go run .
+  304  cd
+  305  ls
+  306  mkdir greetings
+  307  cd greetings
+  308  go mod github.com/greetings
+  309  go mod init github.com/greetings
+  310  code main.go
+  311  go run .
+  312  go run .
+  313  go run .
+  314  go run .
+  315  go run .
+  316  go run .
+  317  cd main
+  318  code main.go
+  319  go run .
+  320  go run .
+  321  cd
+  322  cd greetings
+  323  cd hello
+  324  go mod init github.com/hello
+  325  go mod tidy
+  326  cd ..
+  327  cd ..
+  328  ls
+  329  ls
+  330  cd hello
+  331  ls
+  332  code go.mod
+  333  cd ..
+  334  ls
+  335  cd gow
+  336  ls
+  337  ls
+  338  go get example.com/greetings
+  339  go mod tidy
+  340  cd hello
+  341  go mod tidy
+  342  go mod edit -replace example.com/greetings=../greetings
+  343  go mod tidy
+  344  go get example.com/greetings
+  345  go mod tidy
+  346  clear
+  347  mkdir hello
+  348  cd ..
+  349  cd ..
+  350  ls
+  351  cd gow
+  352  ls
+  353  mkdir hello
+  354  cd hello
+  355  go mod init example/hello
+  356  code main.go
+  357  go mod init example/hello
+  358  ll
+  359  cd ..
+  360  ll
+  361  cd hello
+  362  v go mod
+  363  v go.mod
+  364  go mod
+  365   mkdir main
+  366  cd ..
+  367  cd ..
+  368  export GO111MODULE=off
+  369  ls
+  370  cd piscine-go
+  371  ls
+  372  cd ..
+  373  ls
+  374  mkdir aaa
+  375  cd aaa
+  376  ps -eaf | grep httpd
+  377  sudo httpd -k stop
+  378  sudo httpd -k restart
+  379  sudo nano /etc/apache2/httpd.conf
+  380  sudo nano /etc/apache2/httpd.conf
+  381  sudo nano /etc/apache2/httpd.conf
+  382  ps -eaf | grep httpd
+  383  sudo httpd -k stop
+  384  sudo httpd -k restart
+  385  go run . as df gt
+  386  ls
+  387  go run . as df gt
+  388  go mod init aaa
+  389  go run . as df gt
+  390  go run main.go
+  391  go run . as df gt
+  392  go run main.go
+  393  go run . as df gt
+  394  go run .
+  395  go run .
+  396  go run .
+  397  go run .
+  398  ls
+  399  cd ..
+  400  ls
+  401  cd gow
+  402  ls
+  403  ./hello
+  404  go run hello
+  405  cd hello
+  406  ls
+  407  code go.mod
+  408  cd ..
+  409    cd ..
+  410  ls
+  411  cd aaa
+  412  ls
+  413  code main.go
+  414  go run main.go
+  415  cd ..
+  416  cd ..
+  417  cd ..
+  418  cd ..
+  419  cd ..
+  420  ls
+  421  open -a "Sublime Text" /usr/local/etc/httpd/httpd.conf
+  422  cd users
+  423  ls
+  424  cd saim
+  425  ls
+  426  cd aaa
+  427  ls
+  428  go run main.go
+  429  cd ..
+  430  ls
+  431  go install first_webapp
+  432  go install first_webapp@latest
+  433  go install first_webapp
+  434  go run server.go
+  435  go run server.go
+  436  go run server.go
+  437  code main.go
+  438  cd main
+  439  cd ..
+  440  cd ..
+  441  cd ascii-art-web
+  442  cd ascii-art-web
+  443  cd test
+  444  go test
+  445  go test
+  446  go test
+  447  cd ..
+  448  go run server.go
+  449  go run server.go
+  450  go run server.go
+  451  go run server.go
+  452  go run server.go
+  453  go run server.go
+  454  go run server.go
+  455  go run server.go
+  456  go run server.go
+  457  go run server.go
+  458  go run server.go
+  459  go run server.go
+  460  go run server.go
+  461  go run server.go
+  462  go run server.go
+  463  clear
+  464  go run server.go
+  465  cd test
+  466  go test
+  467  clear
+  468  clear
+  469  pwd
+  470  ls
+  471  cd ascii-art
+  472  ls -al
+  473  cd ..
+  474  ls
+  475  ls
+  476  cd go-api
+  477  ls
+  478  touch form.txt
+  479  ls
+  480  cd ..
+  481  pwd
+  482  vim
+  483  vim -v
+  484  vim -v
+  485  go mod init example/go-api
+  486  cd ..
+  487  l
+  488  ls
+  489  cd ascii-art
+  490  cd ..
+  491  cd ascii-art-web
+  492  ls
+  493  cd ..
+  494  cd ..
+  495  cd freecode
+  496  touch first.js
+  497  code first.js
+  498  open
+  499  cd ..
+  500  ls
+  501  cd ascii-art-web
+  502  go run server.go
+  503  go run server.go
+  504  cd ..
+  505  ls
+  506  cd gofree
+  507  go run main.go
+  508  cd grab
+  509  go mod init grab
+  510  go mod tidy
+  511  cd ..
+  512  go install
+  513  go build main.go
+  514  go build main.go
+  515  go run main.go
+  516  go mod init gt-assel
+  517  go mod tidy
+  518  go run main.go
+  519  go run main.go
+  520  go mod init groupie-tracker
+  521  go mod tidy
+  522  go run main.go
+  523  go run main.go
+  524  go run main.go
+  525  cd ..
+  526  cd freecode
+  527  git clone https://github.com/vim/vim.git
+  528  cd vim/src
+  529  make
+  530  vimtutor
+  531  vimtutor
+  532  clear
+  533  clear
+  534  ls
+  535  cd ..
+  536  cd ..
+  537  ls
+  538  mkdir freecode
+  539  cd freecode
+  540  touch style.css
+  541  ls
+  542  rm style.css
+  543  ls
+  544  d ..
+  545  cd ..
+  546  ls
+  547  chmod +x math-skills.sh
+  548  ./math-skills.sh
+  549  sh math-skills.sh
+  550  ./math-skills.sh
+  551  go run main.go
+  552  ./math-skills.sh
+  553  cd ..
+  554  git clone https://git.learn.01founders.co/Adriell/forum\n
+  555  cd freecode
+  556  ls
+  557  cd ..
+  558  mkdir forum
+  559  cd forum
+  560  cd ..
+  561  ls
+  562  cd freecode
+  563  ls
+  564  cd ..
+  565  mkdir somefunc
+  566  cd somefunc
+  567  go run . 4
+  568  cd ..
+  569  ls
+  570  mkdir lem-in
+  571  cd cmd
+  572  go run . e w q 
+  573  go run .
+  574  cd cmd
+  575  go run . e0.txt
+  576  go run . e0.txt
+  577  go run . e1.txt
+  578  go run . e1.txt
+  579  go mod init lem-in
+  580  go mod tidy
+  581  cd cmd
+  582  go run .
+  583  cd cmd
+  584  go run . e1.txt
+  585  go run . e1.txt
+  586  go run . e1.txt
+  587  go run . e1.txt
+  588  cd cmd
+  589  go run . e1.txt
+  590  go run . e1.txt
+  591  clear
+  592  cd cmd
+  593  go run . e0.txt
+  594  go run . e1.txt
+  595  go run . e1.txt
+  596  go run . e1.txt
+  597  cd cmd
+  598  ls
+  599  go run . e0.txt
+  600  go run .
+  601  go run .
+  602  go run . e0.txt
+  603  git status
+  604  cd cmd
+  605  go run . e1.txt
+  606  go run . e1.txt
+  607  go run . e1.txt
+  608  go run . e2.txt
+  609  cd cmd
+  610  go run . e1.txt
+  611  go run . e1.txt
+  612  go run . e1.txt
+  613  go run . e1.txt
+  614  go run . e0.txt
+  615  cd cmd
+  616  go run . e1.txt
+  617  go mod init leminn
+  618  go mod tidy
+  619  go mod tidy
+  620  go run . e1.txt
+  621  go run . e0.txt
+  622  ls
+  623  go run . example01.txt
+  624  go run . example01.txt
+  625  cd cmd
+  626  go run . e1.txt
+  627  go mod init lem-in
+  628  go mod tidy
+  629  go run . e0.txt
+  630  go run . e0.txt
+  631  go run . example00.txt
+  632  go run . example02.txt
+  633  go run . example02.txt
+  634  go run . example00.txt
+  635  cat example00.txt
+  636  go run . example00.txt
+  637  git clone https://github.com/SpectreH/lem-in.git
+  638  cd lem-in
+  639  go run maps/example00.txt
+  640  go run . maps/example03.txt
+  641  go run maps/example01.txt
+  642  go run . maps/example02.txt
+  643  go run . maps/example01.txt
+  644  go run . maps/example01.txt
+  645  go run . maps/example01.txt
+  646  go run . maps/example01.txt
+  647  go run . maps/example01.txt
+  648  go run . maps/example01.txt
+  649  go run . maps/example01.txt
+  650  go run . maps/example01.txt
+  651  go run . maps/example01.txt
+  652  go run . maps/example01.txt
+  653  go run . maps/example01.txt
+  654  go run . maps/example01.txt
+  655  go run . maps/example01.txt
+  656  git clone https://github.com/Dias1c/lem-in
+  657  cd lem-in
+  658  cd cmd
+  659  go run . example01
+  660  go run . example01
+  661  ls
+  662  cd lem-in
+  663  cd cmd
+  664  clear
+  665  go run . ex.txt
+  666  clear
+  667  ls
+  668  clear
+  669  go run . e1.txt
+  670  clear
+  671  cd ..
+  672  ls
+  673  cd solver
+  674  ls
+  675  code help-ants.go
+  676  cd ..
+  677  cd cmd
+  678  go run . e0.txt
+  679  go mod tify
+  680  go mod tidy
+  681  go run . example03
+  682  cd cmd
+  683  go run . example03
+  684  go mod tidy
+  685  cd ..
+  686  go mod tidy
+  687  cd cmd
+  688  go run . example03
+  689  go mod init lem-in
+  690  go mod tidy
+  691  go run . example01
+  692  cd cmd
+  693  go run . example
+  694  go run . example01
+  695  go run . example01
+  696  go run . example01
+  697  go run . example01
+  698  go run . example01
+  699  go run . example01
+  700  go run . example01
+  701  cd cmd
+  702  go run . example01
+  703  go run . example01
+  704  go run . example01
+  705  go run . example01
+  706  go mod init lem-in
+  707  go mod tidy
+  708  go mod tidy
+  709  go mod tidy
+  710  go mod init lem-in
+  711  go mod tidy
+  712  go mod init lem-in
+  713  go mod tidy
+  714  ls
+  715  cd lem-in
+  716  cd cmd
+  717  go run . example00
+  718  go run . example04
+  719  go run . example05
+  720  go run . example05
+  721  go run . example05
+  722  go run . example05
+  723  go run . example05
+  724  go run . example05
+  725  go run . example05
+  726  go run . example05
+  727  go run . example05
+  728  go run . e0.txt
+  729  go run . example05.txt
+  730  cat example03.txt
+  731  https://github.com/Dias1c/lem-in
+  732  go get https://github.com/Dias1c/lem-in
+  733  go get https://github.com/Dias1c/lem-in
+  734  git clone https://github.com/Dias1c/lem-in
+  735  cd lem-in
+  736  ls
+  737  cd lem-in
+  738  ls
+  739  cat example03.txt
+  740  go run . example03.txt
+  741  cat example03.txt
+  742  go run . maps/example03.txt
+  743  cd cmd
+  744  go run . maps/example03.txt
+  745  cd ..
+  746  go run . maps/example03.txt
+  747  go run . maps/example03
+  748  go run . example03.txt
+  749  go run . maps/example03.txt
+  750  go run . example03.txt
+  751  go run . example03.txt
+  752  cat example03.txt
+  753  go run . example03.txt
+  754  go run . example03.txt
+  755  go run . example03.txt
+  756  go run . example03.txt
+  757  go run . exampl3.txt
+  758  go run . example03.txt
+  759  go run . example03.txt
+  760  cd ..
+  761  clear
+  762  cd lem-in
+  763  cd cmd
+  764  go run . example00.txt
+  765  cd lem-in/cmd
+  766  go run . example00.txt
+  767  go mod init lem-in
+  768  go mod tudy
+  769  go mod tidy
+  770  cd cmd
+  771  go run . example00.txt
+  772  go run . example00.txt
+  773  cd cmd
+  774  go run . example04.txt
+  775  go run . badexample00.txt
+  776  go run . e1.txt
+  777  go run . example01.txt
+  778  go run . example01.txt
+  779  go run . example01.txt
+  780  cd ..
+  781  cd forum
+  782  cd cmd
+  783  go run server.go
+  784  cd ..
+  785  cd ..
+  786  ls
+  787  cd freecode
+  788  ls
+  789  cd lem-in/cmd
+  790  go run . example00.txt
+  791  go run . badexample00.txt
+  792  go run . badexample00.txt
+  793  go run . example00.txt
+  794  go run . example00.txt
+  795  go run . badexample00.txt
+  796  ÅÅ
+  797  go run . example00.txt
+  798  go run . badexample00.txt
+  799  go run . example00.txt
+  800  go run . example00.txt
+  801  go run . badexample00.txt
+  802  go run . example00.txt
+  803  go run . badexample00.txt
+  804  go run . badexample00.txt
+  805  go run . example00.txt
+  806  go run . badexample00.txt
+  807  go run . badexample00.txt
+  808  go run . example00.txt
+  809  go run . example00.txt
+  810  go run . example00.txt
+  811  go run . badexample00.txt
+  812  c;ear
+  813  clear
+  814  go run . example02.txt
+  815  go run . badexample00.txt
+  816  cd ..
+  817  cd ..
+  818  cd lem-in
+  819  go mod init lem-in
+  820  go mod tidy
+  821  go run . e1.txt
+  822  cd ..
+  823  cd saim
+  824  cd freecode
+  825  go run main.go
+  826  clear
+  827  go run main.go
+  828  go run main.go
+  829  go run main.go
+  830  go run main.go data.txt
+  831  go run main.go data.txt
+  832  go run main.go data.txt
+  833  go run main.go data.txt
+  834  go run main.go data.txt
+  835  chmod +x math-skills.sh
+  836  ./math-skills.sh
+  837  go run main.go
+  838  go run main.go
+  839  go run main.go data.txt
+  840  math-skills.sh
+  841  go run main.go
+  842  cd ..
+  843  cd forum
+  844  cd cmd
+  845  go run server.go
+  846  go run server.go
+  847  go run server.go
+  848  sudo hdiutil attach Docker.dmg
+  849  sudo hdiutil attach Docker.dmg
+  850  sudo hdiutil attach Docker.dmg
+  851  go mod init forum
+  852  go mod tidy
+  853  git clone https://github.com/linehk/go-forum.git
+  854  mysql -uroot -proot < model/setup.sql
+  855  cd model
+  856  mysql -uroot -proot
+  857  mysql -uroot -proot < model/setup.sql
+  858  config.toml
+  859  go build -o go-forum
+  860  cd ..
+  861  ./go-forum
+  862  go run main.go
+  863  go run main.go
+  864  go run main.go
+  865  go get https://github.com/Medina7276/forum-front-end-Golang.git
+  866  go help
+  867  go clone https://github.com/Medina7276/forum-front-end-Golang.git
+  868  clone https://github.com/Medina7276/forum-front-end-Golang.git
+  869  git clone https://github.com/Medina7276/forum-front-end-Golang.git
+  870  go run main.go
+  871  go run main.go
+  872  go run main.go
+  873  clear
+  874  go run . example01.txt
+  875  git clone https://github.com/elmira-aliyeva/forum.git
+  876  git clone https://github.com/elmira-aliyeva/forum.git
+  877  cd forum
+  878  cd cmd
+  879  go run main.go
+  880  cd app
+  881  ls
+  882  go run main.go
+  883  go run main.go
+  884  $ git clone https://learn.01founders.co/git/Cassidy.Hall94/forum-image-upload \n
+  885  git clone https://learn.01founders.co/git/Adriell/forum.git
+  886  git config --global credential.helper store
+  887  git clone https://learn.01founders.co/git/Adriell/forum.git
+  888  git clone https://learn.01founders.co/git/Adriell/forum.git
+  889  cd forum
+  890  ls
+  891  cd cmd
+  892  ls
+  893  go run server.go
+  894  cd ..
+  895  cd ..
+  896  cd ..
+  897  ls
+  898  go get "github.com/mattn/go-sqlite3"\n
+  899  go install github.com/mattn/go-sqlite3
+  900  go run main.go
+  901  go run main.go
+  902  go run main.go
+  903  go run main.go
+  904  go run main.go
+  905  go run main.go
+  906  go run main.go
+  907  go run main.go
+  908  cd func
+  909  go get -u https://github.com/mattn/go-sqlite3
+  910  go get -u "github.com/mattn/go-sqlite3"
+  911  go build dbControl.go
+  912  cd ..
+  913  go get -u "github.com/mattn/go-sqlite3"
+  914  go install github.com/mattn/go-sqlite3
+  915  go mod init mattn
+  916  go mod tidy
+  917  go install github.com/mattn/go-sqlite3
+  918  cd cmd
+  919  go run server.go
+  920  go get -u github.com/satori/go.uuid
+  921  go mod tidy
+  922  go get -u github.com/satori/go.uuid
+  923  go mod init enyo
+  924  go mod tidy
+  925  go get gopkg.in/check.v1
+  926  go mod tidy
+  927  go mod tidy
+  928  go run main.go
+  929  go run main.go
+  930  go run main.go
+  931  go run main.go
+  932  go build
+  933  ./golang-sqlite
+  934  sqlite3 test.db
+  935  sqlite> .exit
+  936  ls
+  937  cd pointers
+  938  go run main.go
+  939  go run point.go
+  940  cd mattn
+  941  go run main.go
+  942  go run main.go
+  943  go run main.go
+  944  go run main.go
+  945  ççççç^^^^^^îîîîîîîîîîî
+  946  cd pointers
+  947  go run pointers.go
+  948  go run pointers.go
+  949  go run pointers.go
+  950  go run pointers.go
+  951  cd go
+  952  cd src
+  953  ls
+  954  cd ..
+  955  cd http
+  956  go run main.go
+  957  clear
+  958  go run main.go
+  959  go mod init forum
+  960  go mod tidy
+  961  go run main.go
+  962  go run main.go
+  963  docker image build [OPTINS] PATH | URL | -
+  964  docker images
+  965  go run main.go
+  966  go run main.go
+  967  go run main.go
+  968  go run main.go
+  969  go run main.go
+  970  go run main.go
+  971  go run main.go
+  972  go run main.go
+  973  go run main.go
+  974  go run main.go
+  975  go run main.go
+  976  go run main.go
+  977  go run ex.go
+  978  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  979  brew install git
+  980  sudo port install git
+  981  sudo port install git
+  982  sudo port install git
+  983  ls
+  984  cd documents
+  985  ls
+  986  cd CYF
+  987  path
+  988  cd ..
+  989  cd ..
+  990  cd ..
+  991  ls
+  992  cd golang
+  993  ls
+  994  cd forum
+  995  git -b saim-branch
+  996  git checkout -b saim-branch
+  997  git init
+  998  git add .
+  999  git commit -m"first commit"
+ 1000  git branch -M main
+ 1001  git status
+ 1002  git remote add origin https://github.com/nsaimk/go_maths.git
+ 1003  git push -u origin main
+ 1004  git push -u origin main
+ 1005  pwd
+ 1006  cd ..
+ 1007  history 20 > gitcommands
+ 1008  ls
+ 1009  cd freecode
